@@ -1,6 +1,6 @@
 # Proyek Analisis Data: Dataset Bike Sharing
 
-![Gambar](URL_gambar)
+![Gambar](https://github.com/Agim-dudu/Analisis-Data_BikeSharing/blob/main/img/1.png?raw=true)
 
 
 ## Cara Menjalankan Proyek Ini?
